@@ -1,0 +1,6 @@
+# ASUPython
+## Python: A Guided Journey from Introduction to Application Specialization
+
+In today’s society, uses for new technologies are broadening in scope and revolutionizing the world. Many new technologies automate redundant tasks so people may complete tasks of greater priority. These new automated technologies depend on the constant innovation of software. To develop software that can increase our efficiency and change the world for the better, it is vital to understand how to code using different programming languages. This specialization introduces the basics of the Python programming language and teaches how to implement solutions to real-world problems using Python syntax. Topics in this course range from utilizing integrated development environments (IDEs) to implementing Python syntax in scripts. Some of the position titles that may benefit from this course are computer scientist, computer engineer, software engineer, software developer, software tester, electrical engineer, mechanical engineer, chemical engineer and aerospace engineer. 
+
+You do not need programming or computer science experience to learn the material in this course. This course is open to anyone who is interested in learning how to code and write programs in Python. We are very excited that you will be learning with us and hope you enjoy the course!
